@@ -4,6 +4,8 @@
 
 หมายเหตุ: นี่ไม่ใช่ไลบารี่จากผู้ผลิต จัดทำขึ้นเพื่อใช้งานในระหว่างที่ผู้ผลิตกำลังจัดทำไลบารี่สำหรับบอร์ดโดยเฉพาะ ผู้จัดทำปรับปรุงสำหรับ Mac OS CPU Intel และผู้ใช้ arduino v2.x.x ที่ไม่สามารถติดตั้ง lambda ได้เท่านั้น ส่วน M1 M2 ไม่มีให้ลองทำ
 
+![1_mbD8uZDD_RCR_Lc3QPU_sw](https://github.com/phuminsingla/lambda-library-Mac/assets/5608098/f17f0627-a2d6-4736-9af3-59b53c2acc31)
+
 # การติดตั้ง
 <ul>
 	<li>เปิดโปรแกรม Arduino IDE ขึ้นมา จากนั้นกดไปที่ File > Preferences</li>
