@@ -11,6 +11,8 @@
 	<li>กดไปที่ Tool > Board > Boards Manager เลื่อนหา LAMBDA Boards กด Install รอจนกว่าจะโหลดเสร็จ จากนั้นปิดหน้าต่างไป</li>
 	<li>เลือกบอร์ด เลือกพอร์ต จากนั้นทดลอง Upload ได้เลย</li>
 </ul>
+
+# json file
 ```
 https://raw.githubusercontent.com/phuminsingla/lambda-library-Mac/master/package_lambda_kmutt.json
 ```
