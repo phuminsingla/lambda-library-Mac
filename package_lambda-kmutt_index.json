@@ -13,7 +13,7 @@
         "name": "LAMBDA Plus"
       }],
       "help": {
-        "online": ""
+        "online": "https://github.com/phuminsingla/lambda-library-Mac"
       },
       "category": "Arduino",
       "checksum": "SHA-256:3da728ddd2dd5de41ad10003eed7b91af9a9994e1158a36980022699c772c9cb",
@@ -30,7 +30,7 @@
         "name": "avrdude",
         "version": "6.3.0-arduino17"
       }],
-      "size": "64737 ",
+      "size": "64737",
       "architecture": "avr",
       "version": "0.0.3",
       "archiveFileName": "lambda-hardware-v0.0.3.tar.gz",
