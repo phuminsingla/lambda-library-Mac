@@ -17,7 +17,7 @@
 
 # json file
 ```
-https://raw.githubusercontent.com/phuminsingla/lambda-library-Mac/master/package_lambda_kmutt.json
+https://raw.githubusercontent.com/phuminsingla/lambda-library-Mac/master/package_lambda-kmutt_index.json
 ```
 
 # ลิขสิทธิ์การใช้งาน
