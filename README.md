@@ -12,6 +12,7 @@
 	<li>ในช่อง Additional Boards Manager URLs กรอก json ด้านล่าง</li>
 	<li>กดไปที่ Tool > Board > Boards Manager เลื่อนหา LAMBDA Boards กด Install รอจนกว่าจะโหลดเสร็จ จากนั้นปิดหน้าต่างไป</li>
 	<li>เลือกบอร์ด เลือกพอร์ต จากนั้นทดลอง Upload ได้เลย</li>
+	<li>หรือดูวีดีโอตัวอย่างได้ที่ https://youtu.be/M_wRV0Yi5eU</li>
 </ul>
 
 # json file
