@@ -5,7 +5,7 @@
 หมายเหตุ: นี่ไม่ใช่ไลบารี่จากผู้ผลิต จัดทำขึ้นเพื่อใช้งานในระหว่างที่ผู้ผลิตกำลังจัดทำไลบารี่สำหรับบอร์ดโดยเฉพาะ ผู้จัดทำปรับปรุงสำหรับ Mac OS CPU Intel และผู้ใช้ arduino v2.x.x ที่ไม่สามารถติดตั้ง lambda ได้เท่านั้น ส่วน M1 M2 ไม่มีให้ลองทำ
 
 # การติดตั้ง
-แตก zip ทั้ง 3 ไฟล์ประกอบด้วย packages.zip.001-003 แล้ว Copy folder packages ไปไว้ที่ Path /Users/ชื่อผู้ใช้ Mac/Library/Arduino15/ จากนั้นเปิดโปรแกรม Ardunio ใข้งานได้ทันที
+https://raw.githubusercontent.com/phuminsingla/lambda-library-Mac/master/package_lambda_kmutt.json
 
 # ลิขสิทธิ์การใช้งาน
 <ul>
