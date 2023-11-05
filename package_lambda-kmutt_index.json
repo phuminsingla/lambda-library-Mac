@@ -15,7 +15,7 @@
       "help": {
         "online": ""
       },
-      "category": "avr",
+      "category": "Arduino",
       "checksum": "SHA-256:3da728ddd2dd5de41ad10003eed7b91af9a9994e1158a36980022699c772c9cb",
       "toolsDependencies": [{
         "packager": "lambda",
