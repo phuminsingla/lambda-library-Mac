@@ -5,9 +5,21 @@
 หมายเหตุ: นี่ไม่ใช่ไลบารี่จากผู้ผลิต จัดทำขึ้นเพื่อใช้งานในระหว่างที่ผู้ผลิตกำลังจัดทำไลบารี่สำหรับบอร์ดโดยเฉพาะ ผู้จัดทำปรับปรุงสำหรับ Mac OS CPU Intel และผู้ใช้ arduino v2.x.x ที่ไม่สามารถติดตั้ง lambda ได้เท่านั้น ส่วน M1 M2 ไม่มีให้ลองทำ
 
 # การติดตั้ง
+<ul>
+	<li>เปิดโปรแกรม Arduino IDE ขึ้นมา จากนั้นกดไปที่ File > Preferences</li>
+	<li>ในช่อง Additional Boards Manager URLs กรอก json ด้านล่าง</li>
+	<li>กดไปที่ Tool > Board > Boards Manager เลื่อนหา LAMBDA Boards กด Install รอจนกว่าจะโหลดเสร็จ จากนั้นปิดหน้าต่างไป</li>
+	<li>เลือกบอร์ด เลือกพอร์ต จากนั้นทดลอง Upload ได้เลย</li>
+</ul>
+```
 https://raw.githubusercontent.com/phuminsingla/lambda-library-Mac/master/package_lambda_kmutt.json
+```
 
 # ลิขสิทธิ์การใช้งาน
 <ul>
 	<li>https://github.com/maxpromer/lambda-library</li>
+	<li>https://github.com/watterott/ATmega328PB-Testing</li>
+	<li>http://www.atmel.com/tools/ATMELAVRTOOLCHAINFORWINDOWS.aspx</li>
+	<li>http://www.ioxhop.com/</li>
+	<li>https://support.arduino.cc/</li>
 </ul>
