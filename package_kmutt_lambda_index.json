@@ -59,7 +59,8 @@
         "host": "x86_64-apple-darwin14",
         "archiveFileName": "avr-gcc-7.3.0-atmel3.6.1-arduino7-x86_64-apple-darwin14.tar.bz2",
         "url": "http://downloads.arduino.cc/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-x86_64-apple-darwin14.tar.bz2"
-      }, {
+      },
+		{
         "size": "52519412",
         "checksum": "SHA-256:a54f64755fff4cb792a1495e5defdd789902a2a3503982e81b898299cf39800e",
         "host": "i686-mingw32",
