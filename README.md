@@ -12,7 +12,7 @@
 # ปรับปรุงเพิ่ม
 <ul>
 	<li>รองรับ Windows ที่ใช้ Arduino IDE เวอร์ชั่น 1.8.x และ 2.x.x</li>
-	<li>รองรับ Mac OS เวอรชั่น 11.0 จนถึง 14.0 ใช้ได้ทั้ง CPU Intel/AMD/M1/M2</li>
+	<li>รองรับ Mac OS เวอรชั่น 11.0 จนถึง 26.2(Tahoe) ใช้ได้ทั้ง CPU Intel/AMD/M1/M2</li>
 	<li>รองรับ Linux ที่ใช้ CPU arm/x86_64</li>
 </ul>
 
